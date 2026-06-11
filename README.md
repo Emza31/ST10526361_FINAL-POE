@@ -1,2 +1,14 @@
 # ST10526361_FINAL-POE
 FINAL POE
+
+## CHATAPP FREATURES
+Login validation
+test validation
+junit for messages
+
+## step 1
+PART 1
+LOGIN,MESSAGE AND MAINAPP
+## STEP 2
+MESSAGE loadfromJSON() AND HAVE 5 ARRAYLISTS
+
