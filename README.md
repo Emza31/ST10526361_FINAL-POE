@@ -18,4 +18,6 @@ loop through storedmessages keep the longest string length()
 ## step 5
 junit test that are 5
 ####chatapp created
+Here is the link for the Part 3 video
+https://youtu.be/Gptcs8smgsg
 
